@@ -10,8 +10,6 @@ http://iptvcanales.gq/canales/tvfree/57/playlist.m3u8
 http://iptvcanales.gq/canales/rojo/192/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entretenimiento",NU9VE
 http://iptvcanales.gq/canales/rojo/196/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Azteca Uno 
-http://iptvcanales.gq/canales/tvfree/52/playlist.m3u8
 #EXTINF:0 tvg-id="Azteca7.mx" group-title="Entretenimiento",Azteca 7
 http://iptvcanales.gq/canales/rojo/194/playlist.m3u8
 #EXTINF:0 tvg-id="AZCorazon.cl" group-title="Entretenimiento",Azteca Mundo 
@@ -38,24 +36,12 @@ http://iptvcanales.gq/canales/rojo/240/playlist.m3u8
 http://iptvcanales.gq/canales/tv/glitz_hls/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entretenimiento",MasChiC HD
 http://iptvcanales.gq/canales/tv/maschic_hls/playlist.m3u8
-#EXTINF:0 tvg-id="TruTV.mx" group-title="Entretenimiento",TruTV SD
-http://iptvcanales.gq/canales/tvfree/137/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",MVS
-http://iptvcanales.gq/canales/televall/19/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Tele Novelas
 http://iptvcanales.gq/canales/televall/584/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",RCN Novelas
-http://iptvcanales.gq/canales/tvfree/415/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Sony Novelas
 http://iptvcanales.gq/canales/live/85/playlist.m3u8
-#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Entretenimiento",TLNovelas
-http://iptvcanales.gq/canales/tvfree/56/playlist.m3u8
 #EXTINF:0 tvg-id="Pasiones.us" group-title="Entretenimiento",Pasiones SD
 http://iptvcanales.gq/canales/rojo/94104/playlist.m3u8
-#EXTINF:0 tvg-id="HolaTV.us" group-title="Entretenimiento",HolaTV
-http://iptvcanales.gq/canales/tvfree/136/playlist.m3u8
-#EXTINF:0 tvg-id="OnceTV.mx" group-title="Entretenimiento",Once
-http://iptvcanales.gq/canales/tvfree/132/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Sabes Mas
 http://iptvcanales.gq/canales/live/18/playlist.m3u8
 
@@ -63,22 +49,10 @@ http://iptvcanales.gq/canales/live/18/playlist.m3u8
 http://iptvcanales.gq/canales/tvfree/114/playlist.m3u8
 #EXTINF:0 tvg-id="DisneyChannel.mx" group-title="Infantiles",Disney Channel 
 http://iptvcanales.gq/canales/tvfree/107/playlist.m3u8
-#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Infantiles",Disney XD 
-http://iptvcanales.gq/canales/tvfree/108/playlist.m3u8
 #EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Infantiles",Discovery Kids
 http://iptvcanales.gq/canales/rojo/246/playlist.m3u8
-#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Infantiles",Disney Junior
-http://iptvcanales.gq/canales/tvfree/109/playlist.m3u8
 #EXTINF:0 tvg-id="Nickelodeon.mx" group-title="Infantiles",Nickelodeon 
 http://iptvcanales.gq/canales/rojo/247/playlist.m3u8
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="Infantiles",Nick Junior 
-http://iptvcanales.gq/canales/tvfree/112/playlist.m3u8
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Infantiles",Tooncast 
-http://iptvcanales.gq/canales/tvfree/116/playlist.m3u8
-#EXTINF:0 tvg-id="Boomerang.mx" group-title="Infantiles",Boomerang SD
-http://iptvcanales.gq/canales/cable/hmnf8ejk/playlist.m3u8
-#EXTINF:0 tvg-id="Nicktoons.mx" group-title="Infantiles",Nicktoons 
-http://iptvcanales.gq/canales/tvfree/113/playlist.m3u8
 #EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="Infantiles",BabyFirst 
 http://iptvcanales.gq/canales/tv/babytv_hls/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Infantiles",Chiquilines
@@ -92,30 +66,18 @@ http://iptvcanales.gq/canales/live/283/playlist.m3u8
 http://iptvcanales.gq/canales/televall/84/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Cine y Series",Morbido
 http://iptvcanales.gq/canales/televall/725/playlist.m3u8
-#EXTINF:0 tvg-id="AyE.mx" group-title="Cine y Series",A&E  
-http://iptvcanales.gq/canales/tvfree/99/playlist.m3u8
-#EXTINF:0 tvg-id="Golden.mx" group-title="Cine y Series",Golden
-http://iptvcanales.gq/canales/tvfree/202/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Golden Plus 
-http://iptvcanales.gq/canales/tvfree/73/playlist.m3u8
 #EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Cine y Series",Golden Edge
 http://iptvcanales.gq/canales/tvfree/74/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Cine y Series",Golden Premier
 http://iptvcanales.gq/canales/stream/0069/playlist.m3u8
 #EXTINF:0 tvg-id="CinemaxO.mx" group-title="Cine y Series",Cinemax 
 http://iptvcanales.gq/canales/rojo/427/playlist.m3u8
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Cine y Series",Cinecanal  
-http://iptvcanales.gq/canales/tvfree/44/playlist.m3u8
 #EXTINF:0 tvg-id="TNT.mx" group-title="Cine y Series",TNT 
 http://iptvcanales.gq/canales/rojo/97894/playlist.m3u8
 #EXTINF:0 tvg-id="TNTSeries.cl" group-title="Cine y Series",TNT Series 
 http://iptvcanales.gq/canales/rojo/223/playlist.m3u8
 #EXTINF:0 tvg-id="AXN.mx" group-title="Cine y Series",AXN 
 http://iptvcanales.gq/canales/rojo/97905/playlist.m3u8
-#EXTINF:0 tvg-id="AMC.mx" group-title="Cine y Series",AMC 
-http://iptvcanales.gq/canales/tvfree/82/playlist.m3u8
-#EXTINF:0 tvg-id="SyFy.mx" group-title="Cine y Series",Syfy 
-http://iptvcanales.gq/canales/tvfree/58/playlist.m3u8
 #EXTINF:0 tvg-id="FX.mx" group-title="Cine y Series",FX 
 http://iptvcanales.gq/canales/rojo/97898/playlist.m3u8
 #EXTINF:0 tvg-id="FXMovie.us" group-title="Cine y Series",FXM 
@@ -128,16 +90,10 @@ http://iptvcanales.gq/canales/rojo/261/playlist.m3u8
 http://iptvcanales.gq/canales/rojo/97896/playlist.m3u8
 #EXTINF:0 tvg-id="TBS.mx" group-title="Cine y Series",TBS 
 http://iptvcanales.gq/canales/rojo/227/playlist.m3u8
-#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Cine y Series",Studio Universal 
-http://iptvcanales.gq/canales/tvfree/80/playlist.m3u8
 #EXTINF:0 tvg-id="UniversalChannel.mx" group-title="Cine y Series",Universal Channel 
 http://iptvcanales.gq/canales/tvfree/79/playlist.m3u8
 #EXTINF:0 tvg-id="Warnerchannel.br" group-title="Cine y Series",Warner 
 http://iptvcanales.gq/canales/rojo/97892/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cine y Series",Azteca Cinema
-http://iptvcanales.gq/canales/cable/nxlhxl/playlist.m3u8
-#EXTINF:0 tvg-id="Multipremier.mx" group-title="Cine y Series",Multipremier 
-http://iptvcanales.gq/canales/tvfree/81/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Cine y Series",CineAR 
 http://iptvcanales.gq/canales/tv/cinear_hls/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Cine y Series",De Pelicula Plus 
@@ -163,26 +119,12 @@ http://iptvcanales.gq/canales/live/89/playlist.m3u8
 http://iptvcanales.gq/canales/rojo/236/playlist.m3u8
 #EXTINF:0 tvg-id="History.uk" group-title="Documentales",History
 http://iptvcanales.gq/canales/rojo/97897/playlist.m3u8
-#EXTINF:0 tvg-id="H2.mx" group-title="Documentales",H2  
-http://iptvcanales.gq/canales/tvfree/50/playlist.m3u8
-#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Documentales",Discovery Channel 
-http://iptvcanales.gq/canales/tvfree/95/playlist.m3u8
-#EXTINF:0 tvg-id="tlc-russia" group-title="Documentales",Discovery TLC 
-http://iptvcanales.gq/canales/tvfree/100/playlist.m3u8
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Documentales",Discovery Turbo 
-http://iptvcanales.gq/canales/tvfree/96/playlist.m3u8
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Documentales",Discovery Theater 
-http://iptvcanales.gq/canales/tvfree/101/playlist.m3u8
 #EXTINF:0 tvg-id="Investigation.uk" group-title="Documentales",Investigation Discovery
 http://iptvcanales.gq/canales/rojo/93863/playlist.m3u8
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Documentales",Discovery H&H 
-http://iptvcanales.gq/canales/tvfree/97/playlist.m3u8
 #EXTINF:0 tvg-id="Discovery.uk" group-title="Documentales",Discovery World
 http://iptvcanales.gq/canales/rojo/93866/playlist.m3u8
 #EXTINF:0 tvg-id="NatGeo.mx" group-title="Documentales",NatGeo
 http://iptvcanales.gq/canales/rojo/97927/playlist.m3u8
-#EXTINF:0 tvg-id="NatGeo.mx" group-title="Documentales",NatGeo Op2
-http://iptvcanales.gq/canales/tvfree/92/playlist.m3u8
 #EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Documentales",NatGeo Wild 
 http://iptvcanales.gq/canales/rojo/97928/playlist.m3u8
 #EXTINF:0 tvg-id="ISat.ar" group-title="Documentales",I-Sat 
@@ -194,42 +136,16 @@ http://iptvcanales.gq/canales/live/44/playlist.m3u8
 http://iptvcanales.gq/canales/live/501/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 2
 http://iptvcanales.gq/canales/live/502/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Gol Peru
-http://iptvcanales.gq/canales/televall/737/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Movistar Deportes Peru
-http://iptvcanales.gq/canales/tvfree/195/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports 
-http://iptvcanales.gq/canales/tvfree/9/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Deportes",Fox Sports Premium 
-http://iptvcanales.gq/canales/tvfree/10/playlist.m3u8
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="Deportes",Tyc Sports
-http://iptvcanales.gq/canales/tvfree/11/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN MX 
-http://iptvcanales.gq/canales/tvfree/3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",izziDEPORTES 
 http://iptvcanales.gq/canales/stream/0026/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN USA
-http://iptvcanales.gq/canales/tvfree/200/playlist.m3u8
-#EXTINF:0 tvg-id="GolTV.us" group-title="Deportes",GOlTV
-http://iptvcanales.gq/canales/cable/nt79b4v8i6/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN.ar" group-title="Deportes",ESPN AR
 http://iptvcanales.gq/canales/tvfree/17/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN2.ar" group-title="Deportes",ESPN 2 AR 
 http://iptvcanales.gq/canales/tvfree/18/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN3SD.ar" group-title="Deportes",ESPN 3 AR 
-http://iptvcanales.gq/canales/tvfree/19/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN+HD.ar" group-title="Deportes",ESPN+ 
 http://iptvcanales.gq/canales/tvfree/16/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports.ar" group-title="Deportes",Fox Sports AR  
-http://iptvcanales.gq/canales/tvfree/12/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX 
-http://iptvcanales.gq/canales/tvfree/24/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 MX 
 http://iptvcanales.gq/canales/rojo/97909/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 MX 
-http://iptvcanales.gq/canales/tvfree/26/playlist.m3u8
-#EXTINF:0 tvg-id="ESPNDeportes.us" group-title="Deportes",ESPN Deportes
-http://iptvcanales.gq/canales/tvfree/15/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 
 http://iptvcanales.gq/canales/stream/0054/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 MX HD
@@ -238,12 +154,6 @@ http://iptvcanales.gq/canales/stream/0055/playlist.m3u8
 http://iptvcanales.gq/canales/stream/0052/playlist.m3u8
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports
 http://iptvcanales.gq/canales/live/257/playlist.m3u8
-#EXTINF:0 tvg-id="GolTV.us" group-title="Deportes",GolTV
-http://iptvcanales.gq/canales/tvfree/7/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",WinSports
-http://iptvcanales.gq/canales/tvfree/8/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",WinSports+ Op2
-http://iptvcanales.gq/canales/televall/492/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports AR
 http://iptvcanales.gq/canales/tvfree/20/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports US
@@ -264,37 +174,21 @@ http://iptvcanales.gq/canales/rojo/97911/playlist.m3u8
 http://iptvcanales.gq/canales/rojo/4388/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Bein Sports Xtra Ñ
 http://iptvcanales.gq/canales/live/153/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Bein Sports Xtra
-http://iptvcanales.gq/canales/live/104/playlist.m3u8
 #EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Deportes",TVC Deportes
 http://iptvcanales.gq/canales/tvfree/60/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",CDN Deportes
 http://iptvcanales.gq/canales/live/3/playlist.m3u8
 #EXTINF:0 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
 http://iptvcanales.gq/canales/live/128/playlist.m3u8
-#EXTINF:0 tvg-id="NBA.blt" group-title="Deportes",NBA TV
-http://iptvcanales.gq/canales/tvfree/125/playlist.m3u8
-#EXTINF:0 tvg-id="ESPNU.us" group-title="Deportes",ESPN U
-http://iptvcanales.gq/canales/tvfree/148/playlist.m3u8
 #EXTINF:0 tvg-id="NFLNetwork.mx" group-title="Deportes",NFL Network
 http://iptvcanales.gq/canales/tvfree/151/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",tiGo Sports
-http://iptvcanales.gq/canales/tvfree/201/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",WAPA Deportes
 http://iptvcanales.gq/canales/rojo/546/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Sky Sports La Liga
-http://iptvcanales.gq/canales/xtream/31018/playlist.m3u8
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Deportes",Sky Sports Football
-http://iptvcanales.gq/canales/live/60/playlist.m3u8
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Deportes",Sky Sports Premier League
-http://iptvcanales.gq/canales/live/80/playlist.m3u8
 #EXTINF:0 tvg-id="Eurosport1.uk" group-title="Deportes",EuroSport 1
 http://iptvcanales.gq/canales/live/65/playlist.m3u8
 #EXTINF:0 tvg-id="Eurosport2.uk" group-title="Deportes",EuroSport 2
 http://iptvcanales.gq/canales/live/66/playlist.m3u8
 
-#EXTINF:0 tvg-id="Fox.mx" group-title="FOX Premium",Fox 
-http://iptvcanales.gq/canales/tvfree/52/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FOX Premium",Fox Hits 
 http://iptvcanales.gq/canales/rojo/97900/playlist.m3u8
 #EXTINF:0 tvg-id="FoxActionHD.mx" group-title="FOX Premium",Fox Action HD
