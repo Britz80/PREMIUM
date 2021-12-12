@@ -32,7 +32,7 @@ http://iptvcanales.gq/canales/rojo/231/playlist.m3u8
 http://iptvcanales.gq/canales/stream/0079/playlist.m3u8
 #EXTINF:0 tvg-id="Lifetime.mx" group-title="Entretenimiento",Lifetime SD
 http://iptvcanales.gq/canales/rojo/240/playlist.m3u8
-#EXTINF:0 tvg-id="Glitz.mx" group-title="Entretenimiento",Glitz
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Entretenimiento",Glitz 
 http://iptvcanales.gq/canales/tv/glitz_hls/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entretenimiento",MasChiC HD
 http://iptvcanales.gq/canales/tv/maschic_hls/playlist.m3u8
