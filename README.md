@@ -138,34 +138,42 @@ http://iptvcanales.gq/canales/live/501/playlist.m3u8
 http://iptvcanales.gq/canales/live/502/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",izziDEPORTES 
 http://iptvcanales.gq/canales/stream/0026/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="ESPN.ar" group-title="Deportes",ESPN AR
-http://iptvcanales.gq/canales/tvfree/17/playlist.m3u8
+http://iptvcanales.gq/canales/stream/0446/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN MX 
+http://iptvcanales.gq/canales/stream/0053/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN2.ar" group-title="Deportes",ESPN 2 AR 
 http://iptvcanales.gq/canales/tvfree/18/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN+HD.ar" group-title="Deportes",ESPN+ 
-http://iptvcanales.gq/canales/tvfree/16/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 MX 
-http://iptvcanales.gq/canales/rojo/97909/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 MX 
 http://iptvcanales.gq/canales/stream/0054/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 MX HD
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 AR 
+http://iptvcanales.gq/canales/stream/0448/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 MX 
 http://iptvcanales.gq/canales/stream/0055/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN+HD.ar" group-title="Deportes",ESPN EXTRA AR 
+http://iptvcanales.gq/canales/tvfree/16/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN Extra MX
 http://iptvcanales.gq/canales/stream/0052/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX 
+http://iptvcanales.gq/canales/rojo/97910/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 MX 
+http://iptvcanales.gq/canales/rojo/97909/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports  SR  
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=170&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 SR 
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=174&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 SR
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=178&p=3&k=srregio&f=.m3u8
+
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports
 http://iptvcanales.gq/canales/live/257/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports AR
-http://iptvcanales.gq/canales/tvfree/20/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports US
-http://iptvcanales.gq/canales/stream/0272/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports 2 AR
-http://iptvcanales.gq/canales/tvfree/21/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports 2 US
-http://iptvcanales.gq/canales/stream/0273/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports+ AR
-http://iptvcanales.gq/canales/tvfree/22/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports+ US
-http://iptvcanales.gq/canales/stream/0274/playlist.m3u8
+
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports SR.
+http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+
 #EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein Sports Ñ
 http://iptvcanales.gq/canales/tvfree/23/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein Sports Ñ Op2
