@@ -197,6 +197,40 @@ http://iptvcanales.gq/canales/live/65/playlist.m3u8
 #EXTINF:0 tvg-id="Eurosport2.uk" group-title="Deportes",EuroSport 2
 http://iptvcanales.gq/canales/live/66/playlist.m3u8
 
+#EXTINF:0 tvg-id="TUDN" group-title="Deportes",TUDN
+http://iptvcanales.gq/canales/total/174/playlist.m3u8
+
+#EXTINF:0 tvg-id="TUDN HD" group-title="Deportes",TUDN HD
+http://iptvcanales.gq/canales/total/1049/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Deportes",Espn
+http://iptvcanales.gq/canales/total/168/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Deportes",Espn 2
+http://iptvcanales.gq/canales/total/169/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Deportes",Espn 3
+http://iptvcanales.gq/canales/total/345/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN+.mx" group-title="Deportes",ESPN +
+http://iptvcanales.gq/canales/total/167/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports.mx" group-title="Deportes",Fox sports
+http://iptvcanales.gq/canales/total/170/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox sports 2
+http://iptvcanales.gq/canales/total/172/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Deportes",Fox sports 3
+http://iptvcanales.gq/canales/total/178/playlist.m3u8
+#EXTINF:0 tvg-id="Claro Sports HD" group-title="Deportes",Claro Sports HD
+http://iptvcanales.gq/canales/total/2564/playlist.m3u8
+#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Deportes",TVC Deportes
+http://iptvcanales.gq/canales/total/2157/playlist.m3u8
+#EXTINF:0 tvg-id="Adrenalina sports Network" group-title="Deportes",Adrenalina sports Network
+http://iptvcanales.gq/canales/total/2404/playlist.m3u8
+#EXTINF:0 tvg-id="Golf.es" group-title="Deportes",Golf
+http://iptvcanales.gq/canales/total/179/playlist.m3u8
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Deportes",Aym sports
+http://iptvcanales.gq/canales/total/180/playlist.m3u8
+#EXTINF:0 tvg-id="LMB" group-title="Deportes",LMB
+http://iptvcanales.gq/canales/total/2089/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="FOX Premium",Fox Hits 
 http://iptvcanales.gq/canales/rojo/97900/playlist.m3u8
 #EXTINF:0 tvg-id="FoxActionHD.mx" group-title="FOX Premium",Fox Action HD
@@ -1357,7 +1391,7 @@ http://iptvcanales.gq/canales/dai/jdrfOkgoQ6Wb2lTVTohplQ/playlist.m3u8
 http://iptvcanales.gq/canales/dai/V461nXwAQW6ykQfSBUD1ig/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Prende TV",Mas Alla
 http://iptvcanales.gq/canales/dai/YCEuzLaaQruSEO1RJ8QsBA/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Prende TV",Puro Reality
+#EXTINF:0 tvg-id="ext" group-title="Prende TV",Puro Reality````
 http://iptvcanales.gq/canales/dai/KS6jER2pSGWVgcV5_7JLOQ/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Prende TV",Sala de Emergencias
 http://iptvcanales.gq/canales/dai/PMNbiWGWQ2qFRjDSHJ8oCw/playlist.m3u8
