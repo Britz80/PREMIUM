@@ -161,23 +161,6 @@ http://iptvcanales.gq/canales/stream/0052/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Deportes",Fox Sports Premium SD Op2
-
-#EXTINF:0 tvg-id="FoxSports.ar" group-title="Deportes",Fox Sports AR SD
-http://iptvcanales.gq/canales/edge/FoxSports/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports.ar" group-title="Deportes",Fox Sports AR SD Op2
-http://iptvcanales.gq/canales/tvfree/12/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports2.ar" group-title="Deportes",Fox Sports 2 AR SD
-http://iptvcanales.gq/canales/edge/FoxSports2HD/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports2.ar" group-title="Deportes",Fox Sports 2 AR SD Op2
-http://iptvcanales.gq/canales/tvfree/13/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports3.ar" group-title="Deportes",Fox Sports 3 AR SD
-http://iptvcanales.gq/canales/edge/FoxSports3HD/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports3.ar" group-title="Deportes",Fox Sports 3 AR SD Op2
-http://iptvcanales.gq/canales/tvfree/17/playlist.m3u8
-
-
-
 http://iptvcanales.gq/canales/tvfree/10/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX 
 http://iptvcanales.gq/canales/rojo/97910/playlist.m3u8
@@ -185,11 +168,12 @@ http://iptvcanales.gq/canales/rojo/97910/playlist.m3u8
 http://iptvcanales.gq/canales/rojo/97909/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports  SR  
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=170&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 SR 
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=174&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=172&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 SR
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=178&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8
+
 
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports
 http://iptvcanales.gq/canales/live/257/playlist.m3u8
