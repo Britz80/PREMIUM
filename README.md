@@ -133,8 +133,19 @@ http://iptvcanales.gq/canales/rojo/269/playlist.m3u8
 http://iptvcanales.gq/canales/live/44/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 1
-http://iptvcanales.gq/canales/live/501/playlist.m3u8
+http://iptvcanales.gq/canales/btv/eviy3tp9sa8v04t/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 2
+http://iptvcanales.gq/canales/btv/c2kxuno/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 3
+http://iptvcanales.gq/canales/live/503/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 4
+http://iptvcanales.gq/canales/live/504/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 5
+http://iptvcanales.gq/canales/live/505/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 6
+http://iptvcanales.gq/canales/live/506/playlist.m3u8
+
+
 http://iptvcanales.gq/canales/live/502/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",izziDEPORTES 
 http://iptvcanales.gq/canales/stream/0026/playlist.m3u8
@@ -156,6 +167,27 @@ http://iptvcanales.gq/canales/stream/0055/playlist.m3u8
 http://iptvcanales.gq/canales/tvfree/16/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN Extra MX
 http://iptvcanales.gq/canales/stream/0052/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Deportes",Fox Sports Premium SD Op2
+
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="Deportes",Fox Sports AR SD
+http://iptvcanales.gq/canales/edge/FoxSports/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="Deportes",Fox Sports AR SD Op2
+http://iptvcanales.gq/canales/tvfree/12/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports2.ar" group-title="Deportes",Fox Sports 2 AR SD
+http://iptvcanales.gq/canales/edge/FoxSports2HD/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports2.ar" group-title="Deportes",Fox Sports 2 AR SD Op2
+http://iptvcanales.gq/canales/tvfree/13/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="Deportes",Fox Sports 3 AR SD
+http://iptvcanales.gq/canales/edge/FoxSports3HD/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="Deportes",Fox Sports 3 AR SD Op2
+http://iptvcanales.gq/canales/tvfree/17/playlist.m3u8
+
+
+
+http://iptvcanales.gq/canales/tvfree/10/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX 
 http://iptvcanales.gq/canales/rojo/97910/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 MX 
