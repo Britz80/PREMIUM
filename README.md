@@ -145,12 +145,6 @@ http://iptvcanales.gq/canales/total/174/playlist.m3u8
 #EXTINF:0 tvg-id="TUDN HD" group-title="Deportes",TUDN HD
 http://iptvcanales.gq/canales/total/1049/playlist.m3u8
 
-http://iptvcanales.gq/canales/tvfree/10/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX 
-http://iptvcanales.gq/canales/rojo/97910/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 MX 
-http://iptvcanales.gq/canales/rojo/97909/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports  SR  
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 SR 
