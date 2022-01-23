@@ -140,6 +140,31 @@ http://iptvcanales.gq/canales/btv/c2kxuno/playlist.m3u8
 http://iptvcanales.gq/canales/live/502/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",izziDEPORTES 
 http://iptvcanales.gq/canales/stream/0026/playlist.m3u8
+#EXTINF:0 tvg-id="TUDN" group-title="Deportes",TUDN
+http://iptvcanales.gq/canales/total/174/playlist.m3u8
+#EXTINF:0 tvg-id="TUDN HD" group-title="Deportes",TUDN HD
+http://iptvcanales.gq/canales/total/1049/playlist.m3u8
+
+http://iptvcanales.gq/canales/tvfree/10/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX 
+http://iptvcanales.gq/canales/rojo/97910/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 MX 
+http://iptvcanales.gq/canales/rojo/97909/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports  SR  
+http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 SR 
+http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=172&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 SR
+http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:0 tvg-id="FoxSports.mx" group-title="Deportes",Fox sports
+http://iptvcanales.gq/canales/total/170/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox sports 2
+http://iptvcanales.gq/canales/total/172/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Deportes",Fox sports 3
+http://iptvcanales.gq/canales/total/178/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ESPN.ar" group-title="Deportes",ESPN AR
@@ -160,27 +185,6 @@ http://iptvcanales.gq/canales/tvfree/16/playlist.m3u8
 http://iptvcanales.gq/canales/stream/0052/playlist.m3u8
 
 
-
-http://iptvcanales.gq/canales/tvfree/10/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX 
-http://iptvcanales.gq/canales/rojo/97910/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 MX 
-http://iptvcanales.gq/canales/rojo/97909/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports  SR  
-http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 SR 
-http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=172&p=3&k=srregio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 SR
-http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8
-
-
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports
-http://iptvcanales.gq/canales/live/257/playlist.m3u8
-
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports SR.
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2564&p=3&k=srregio&f=.m3u8
-
 #EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein Sports Ñ
 http://iptvcanales.gq/canales/tvfree/23/playlist.m3u8
 #EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Deportes",Bein Sports Ñ Op2
@@ -189,44 +193,13 @@ http://iptvcanales.gq/canales/rojo/97911/playlist.m3u8
 http://iptvcanales.gq/canales/rojo/4388/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Bein Sports Xtra Ñ
 http://iptvcanales.gq/canales/live/153/playlist.m3u8
+
 #EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Deportes",TVC Deportes
 http://iptvcanales.gq/canales/tvfree/60/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",CDN Deportes
-http://iptvcanales.gq/canales/live/3/playlist.m3u8
 #EXTINF:0 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
 http://iptvcanales.gq/canales/live/128/playlist.m3u8
 #EXTINF:0 tvg-id="NFLNetwork.mx" group-title="Deportes",NFL Network
 http://iptvcanales.gq/canales/tvfree/151/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",WAPA Deportes
-http://iptvcanales.gq/canales/rojo/546/playlist.m3u8
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Deportes",EuroSport 1
-http://iptvcanales.gq/canales/live/65/playlist.m3u8
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Deportes",EuroSport 2
-http://iptvcanales.gq/canales/live/66/playlist.m3u8
-
-#EXTINF:0 tvg-id="TUDN" group-title="Deportes",TUDN
-http://iptvcanales.gq/canales/total/174/playlist.m3u8
-
-#EXTINF:0 tvg-id="TUDN HD" group-title="Deportes",TUDN HD
-http://iptvcanales.gq/canales/total/1049/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN.mx" group-title="Deportes",Espn
-http://iptvcanales.gq/canales/total/168/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Deportes",Espn 2
-http://iptvcanales.gq/canales/total/169/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Deportes",Espn 3
-http://iptvcanales.gq/canales/total/345/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN+.mx" group-title="Deportes",ESPN +
-http://iptvcanales.gq/canales/total/167/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports.mx" group-title="Deportes",Fox sports
-http://iptvcanales.gq/canales/total/170/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox sports 2
-http://iptvcanales.gq/canales/total/172/playlist.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Deportes",Fox sports 3
-http://iptvcanales.gq/canales/total/178/playlist.m3u8
-#EXTINF:0 tvg-id="Claro Sports HD" group-title="Deportes",Claro Sports HD
-http://iptvcanales.gq/canales/total/2564/playlist.m3u8
-#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Deportes",TVC Deportes
-http://iptvcanales.gq/canales/total/2157/playlist.m3u8
 #EXTINF:0 tvg-id="Adrenalina sports Network" group-title="Deportes",Adrenalina sports Network
 http://iptvcanales.gq/canales/total/2404/playlist.m3u8
 #EXTINF:0 tvg-id="Golf.es" group-title="Deportes",Golf
@@ -235,6 +208,18 @@ http://iptvcanales.gq/canales/total/179/playlist.m3u8
 http://iptvcanales.gq/canales/total/180/playlist.m3u8
 #EXTINF:0 tvg-id="LMB" group-title="Deportes",LMB
 http://iptvcanales.gq/canales/total/2089/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Deportes",Espn
+http://iptvcanales.gq/canales/total/168/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Deportes",Espn 2
+http://iptvcanales.gq/canales/total/169/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Deportes",Espn 3
+http://iptvcanales.gq/canales/total/345/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN+.mx" group-title="Deportes",ESPN +
+http://iptvcanales.gq/canales/total/167/playlist.m3u8
+
 
 
 
