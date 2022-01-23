@@ -230,7 +230,7 @@ http://iptvcanales.gq/canales/total/168/playlist.m3u8
 http://iptvcanales.gq/canales/total/169/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN3.mx" group-title="Deportes",Espn 3
 http://iptvcanales.gq/canales/total/345/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN+.mx" group-title="Deportes",ESPN +
+#EXTINF:0 tvg-id="ESPN+.mx" group-title="Deportes",ESPN + 
 http://iptvcanales.gq/canales/total/167/playlist.m3u8
 
 
