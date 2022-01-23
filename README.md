@@ -136,15 +136,6 @@ http://iptvcanales.gq/canales/live/44/playlist.m3u8
 http://iptvcanales.gq/canales/btv/eviy3tp9sa8v04t/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 2
 http://iptvcanales.gq/canales/btv/c2kxuno/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 3
-http://iptvcanales.gq/canales/live/503/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 4
-http://iptvcanales.gq/canales/live/504/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 5
-http://iptvcanales.gq/canales/live/505/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 6
-http://iptvcanales.gq/canales/live/506/playlist.m3u8
-
 
 http://iptvcanales.gq/canales/live/502/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",izziDEPORTES 
