@@ -137,10 +137,10 @@ http://iptvcanales.gq/canales/btv/eviy3tp9sa8v04t/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 2
 http://iptvcanales.gq/canales/btv/c2kxuno/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Lista TV",CLARO SPORTS 
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CLARO SPORTS 
 http://iptvcanales.gq/canales/live/257/playlist.m3u8 
 
-#EXTINF:0 tvg-id="ext" group-title="Lista TV",CLARO SPORTS SR
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CLARO SPORTS SR
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8
 
 
@@ -211,16 +211,10 @@ http://iptvcanales.gq/canales/total/180/playlist.m3u8
 http://iptvcanales.gq/canales/total/2089/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports AR
-http://iptvcanales.gq/canales/tvfree/20/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports US
+#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports 
 http://iptvcanales.gq/canales/stream/0272/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports 2 AR
-http://iptvcanales.gq/canales/tvfree/21/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports 2 US
+#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports 2 
 http://iptvcanales.gq/canales/stream/0273/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports+ AR
-http://iptvcanales.gq/canales/tvfree/22/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports+ US
 http://iptvcanales.gq/canales/stream/0274/playlist.m3u8
 
