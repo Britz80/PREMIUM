@@ -137,13 +137,6 @@ http://iptvcanales.gq/canales/btv/eviy3tp9sa8v04t/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Evento Deportivo 2
 http://iptvcanales.gq/canales/btv/c2kxuno/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Deportes",CLARO SPORTS 
-http://iptvcanales.gq/canales/live/257/playlist.m3u8 
-
-#EXTINF:0 tvg-id="ext" group-title="Deportes",CLARO SPORTS SR
-http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8
-
-
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Afizzionados 
 http://iptvcanales.gq/canales/stream/0026/playlist.m3u8
 
@@ -151,14 +144,6 @@ http://iptvcanales.gq/canales/stream/0026/playlist.m3u8
 http://iptvcanales.gq/canales/total/174/playlist.m3u8
 #EXTINF:0 tvg-id="TUDN HD" group-title="Deportes",TUDN HD
 http://iptvcanales.gq/canales/total/1049/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports  SR  
-http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 SR 
-http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=172&p=3&k=srregio&f=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 SR
-http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8
-
 
 #EXTINF:0 tvg-id="FoxSports.mx" group-title="Deportes",Fox sports
 http://iptvcanales.gq/canales/total/170/playlist.m3u8
@@ -194,6 +179,20 @@ http://iptvcanales.gq/canales/rojo/97911/playlist.m3u8
 http://iptvcanales.gq/canales/rojo/4388/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Bein Sports Xtra Ñ
 http://iptvcanales.gq/canales/live/153/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CLARO SPORTS 
+http://iptvcanales.gq/canales/live/257/playlist.m3u8 
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",CLARO SPORTS SR
+http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports  SR  
+http://regioplay.xyz/php/SR_REGIO_312022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 SR 
+http://regioplay.xyz/php/SR_REGIO_312022_/tpa.php?c=172&p=3&k=srregio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 SR
+http://regioplay.xyz/php/SR_REGIO_312022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8
 
 #EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Deportes",TVC Deportes
 http://iptvcanales.gq/canales/tvfree/60/playlist.m3u8
