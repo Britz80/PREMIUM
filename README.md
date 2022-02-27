@@ -1072,7 +1072,7 @@ http://iptvcanales.xyz/canales/tvfree/398/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",UFC Op3
 http://iptvcanales.xyz/canales/televall/752/playlist.m3u8
 #EXTINF:0 tvg-id="WWE.ca" group-title="Deportes",WWE
-http://iptvcanales.xyz/canales/tvfree/222/playlist.m3u8
+http://iptvcanales.xyz/canales/tvfree/222/playlist.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="Deportes",WAPA Deportes
 http://iptvcanales.xyz/canales/rojo/546/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Adrenalina Sports Network
