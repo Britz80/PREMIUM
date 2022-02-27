@@ -1044,7 +1044,7 @@ http://iptvcanales.xyz/canales/live/153/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Bein Sports Xtra
 http://iptvcanales.xyz/canales/live/104/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Afizzionados
-http://iptvcanales.xyz/canales/espana/878/playlist.m3u8
+http://iptvcanales.xyz/canales/live/234/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Afizzionados Op2
 http://iptvcanales.xyz/canales/stream/0026/playlist.m3u8
 #EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Deportes",TVC Deportes
