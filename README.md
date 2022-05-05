@@ -30,7 +30,7 @@ http://iptvcanales.xyz/canales/live/217/playlist.m3u8
 http://iptvcanales.xyz/canales/live/218/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Latinos",Azteca Uno SND
 http://iptvcanales.xyz/canales/live/219/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Latinos",ADN 40 SND
+#EXTINF:0 tvg-id="ext" group-title="Latinos",ADN 40 SND 
 http://iptvcanales.xyz/canales/live/220/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Latinos",ImagenTV HD 
 http://iptvcanales.xyz/canales/youtube/UCl5JKSQsl-_WSU1rz7_BCJA/playlist.m3u8
