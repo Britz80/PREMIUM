@@ -1,3 +1,7 @@
+activador
+https://teleclub.xyz/listas
+
+
 #EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="Eventos",Teleclub | EVENTO 01
