@@ -192,26 +192,12 @@ http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musica",Retro Plus 3
 http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_3/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Tigo Sports BO
-http://tv.teleclub.xyz/stream/Deportes/TIGO_SPORTS_BO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Tigo Sports PY
-http://tv.teleclub.xyz/stream/Deportes/TIGO_SPORTS_PY/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN
 http://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Afizzionados
 http://tv.teleclub.xyz/stream/Deportes/AFIZZIONADOS/index.m3u8
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports
 http://tv.teleclub.xyz/stream/Deportes/CLARO_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="GolTV.us" group-title="Deportes",GolTV
-http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv 2
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv +
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",GolPeru
-http://tv.teleclub.xyz/stream/Deportes/GOLPERU/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN MX
 http://tv.teleclub.xyz/stream/Deportes/ESPN_MX/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 MX
@@ -226,24 +212,40 @@ http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_MX/index.m3u8
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_MX/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 MX
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_MX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN Sur
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN AR
 http://tv.teleclub.xyz/stream/Deportes/ESPN_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 Sur
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 AR
 http://tv.teleclub.xyz/stream/Deportes/ESPN_2_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 Sur
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 AR
 http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Sur
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports AR
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 Sur
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 AR
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 Sur
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 AR
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 #EXTINF:0 tvg-id="beINSPORTS.us" group-title="Deportes",Bein Sports
 http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv 2
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv +
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",GolPeru
+http://tv.teleclub.xyz/stream/Deportes/GOLPERU/index.m3u8
+#EXTINF:0 tvg-id="GolTV.us" group-title="Deportes",GolTV
+http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sports
 http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sports +
 http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS_PLUS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Tigo Sports BO
+http://tv.teleclub.xyz/stream/Deportes/TIGO_SPORTS_BO/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Tigo Sports PY
+http://tv.teleclub.xyz/stream/Deportes/TIGO_SPORTS_PY/index.m3u8
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Paises",La Tele Uruguay
 http://tv.teleclub.xyz/stream/Paises/LATELE_UY/index.m3u8
