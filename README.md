@@ -187,80 +187,96 @@ http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_2/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN
 http://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Afizzionados
 http://tv.teleclub.xyz/stream/Deportes/AFIZZIONADOS/index.m3u8
+
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports
 http://tv.teleclub.xyz/stream/Deportes/CLARO_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="GolTV.us" group-title="Deportes",GolTV
-http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv 2
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv +
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",GolPeru
-http://tv.teleclub.xyz/stream/Deportes/GOLPERU/index.m3u8
+
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Deportes",TyC Sports
+http://tv.teleclub.xyz/stream/Deportes/TYC_SPORTS/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN MX
 http://tv.teleclub.xyz/stream/Deportes/ESPN_MX/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 MX
 http://tv.teleclub.xyz/stream/Deportes/ESPN_2_MX/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 MX
 http://tv.teleclub.xyz/stream/Deportes/ESPN_3_MX/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Deportes",ESPN 4
+http://tv.teleclub.xyz/stream/Deportes/ESPN4/index.m3u8
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Deportes",ESPN Extra
+http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN AR
+http://tv.teleclub.xyz/stream/Deportes/ESPN_SUR/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 AR
+http://tv.teleclub.xyz/stream/Deportes/ESPN_2_SUR/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 AR
+http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_MX/index.m3u8
 #EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox Sports 2 MX
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_MX/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 MX
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_MX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_2_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_SUR/index.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Deportes",Bein Sports
-http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sports
-http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sports +
-http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS_PLUS/index.m3u8
-#EXTINF:0 tvg-id="Espnextra.br" group-title="Deportes",ESPN Extra
-http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="Deportes",TyC Sports
-http://tv.teleclub.xyz/stream/Deportes/TYC_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",WWE & WWF
-http://tv.teleclub.xyz/stream/Deportes/WWE_WWF/index.m3u8
-#EXTINF:0 tvg-id="ESPN4.nl" group-title="Deportes",ESPN 4
-http://tv.teleclub.xyz/stream/Deportes/ESPN4/index.m3u8
-#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="Deportes",DAZN
-http://tv.teleclub.xyz/stream/Deportes/DAZN/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports (ARG)
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_ARG/index.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Deportes",Real Madrid TV (ES)
-http://tv.teleclub.xyz/stream/Deportes/RM_TV/index.m3u8
-#EXTINF:0 tvg-id="MUTV.uk" group-title="Deportes",Manchester United TV
-http://tv.teleclub.xyz/stream/Deportes/MAN_UNITEDTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL Channel
-http://tv.teleclub.xyz/stream/Deportes/NFL_CHANNEL/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Tigo Sports BO
-http://tv.teleclub.xyz/stream/Deportes/Tigo_Sports/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ECDF El Canal del Futbol
-http://tv.teleclub.xyz/stream/Deportes/ECDF/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Adrenalina Sports Network
-http://tv.teleclub.xyz/stream/Deportes/ADRENALINA/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",MZ Sports CR
-http://tv.teleclub.xyz/stream/Deportes/MZ_SPORTSCR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports BR
-http://tv.teleclub.xyz/stream/Deportes/TNTSPORTS_BR/index.m3u8
 #EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Deportes",Fox Sports Premium
 http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports AR
+http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 AR
+http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_SUR/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 AR
+http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_SUR/index.m3u8
+
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Deportes",Bein Sports
+http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
+
+EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV 
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_ARG/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv 2
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv +
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
+
+#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="Deportes",DAZN
+http://tv.teleclub.xyz/stream/Deportes/DAZN/index.m3u8
+
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Deportes",Manchester United TV
+http://tv.teleclub.xyz/stream/Deportes/MAN_UNITEDTV/index.m3u8
+
+#EXTINF:0 tvg-id="GolTV.us" group-title="Deportes",GolTV
+http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",GolPeru
+http://tv.teleclub.xyz/stream/Deportes/GOLPERU/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sports
+http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sports +
+http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS_PLUS/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL Channel
+http://tv.teleclub.xyz/stream/Deportes/NFL_CHANNEL/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",ECDF El Canal del Futbol
+http://tv.teleclub.xyz/stream/Deportes/ECDF/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Adrenalina Sports Network
+http://tv.teleclub.xyz/stream/Deportes/ADRENALINA/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports BR
+http://tv.teleclub.xyz/stream/Deportes/TNTSPORTS_BR/index.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Paises",La Tele Uruguay
 http://tv.teleclub.xyz/stream/Paises/LATELE_UY/index.m3u8
