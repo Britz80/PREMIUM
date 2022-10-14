@@ -4,408 +4,457 @@ https://teleclub.xyz/listas
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Infantil",Cartoon Network
-http://tv.teleclub.xyz/stream/Infantil/CARTOON_NETWORK/index.m3u8
-#EXTINF:0 tvg-id="DisneyChannel.mx" group-title="Infantil",Disney Channel
-http://tv.teleclub.xyz/stream/Infantil/DISNEY_CHANNEL/index.m3u8
-#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Infantil",Disney Jr
-http://tv.teleclub.xyz/stream/Infantil/DISNEY_JUNIOR/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Infantil",Discovery Kids
-http://tv.teleclub.xyz/stream/Infantil/DISCOVERY_KIDS/index.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Infantil",Nick
-http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8
-#EXTINF:0 tvg-id="NickJr.mx" group-title="Infantil",NICK Jr
-http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Infantil",Tooncast
-http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Bitme
-http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Infantil",Cartoonito
-http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Infantil",Gogoplay TV
-http://tv.teleclub.xyz/stream/Infantil/GOGOPLAY/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",23132131241_Animal Planet
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-1.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312416_Discovery H&H
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-16.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312417_Discovery Science
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-17.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312418_Discovery Theater
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-18.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312420_Discovery TLC
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-20.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312421_Discovery Turbo
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-21.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312422_Discovery World
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-22.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312431_History
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-31.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312437_Investigation Discovery
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-37.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312457_Natgeo
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-57.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312458_Natgeo Wild
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-58.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",231321312459_History 2
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-59.m3u
+#EXTINF:0 tvg-id="ext" group-title="Cien/cult&Biograf",2313213124158_Discovery Channel
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-158.m3u
 
-#EXTINF:0 tvg-id="CNNesp.mx" group-title="Mundo",CNN en Español
-http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
-#EXTINF:0 tvg-id="CNN.nws" group-title="Mundo",CNN
-http://tv.teleclub.xyz/stream/Mundo/CNN/index.m3u8
-#EXTINF:0 tvg-id="Glitz.mx" group-title="Mundo",Glitz
-http://tv.teleclub.xyz/stream/Mundo/GLITZ/index.m3u8
-#EXTINF:0 tvg-id="RTEspanol.es" group-title="Mundo",RT en Español
-http://tv.teleclub.xyz/stream/Mundo/RT_ESPANOL/index.m3u8
-#EXTINF:0 tvg-id="TruTV.mx" group-title="Mundo",TruTV
-http://tv.teleclub.xyz/stream/Mundo/TRUTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Mundo",MasChic
-http://tv.teleclub.xyz/stream/Mundo/MASCHIC/index.m3u8
-#EXTINF:0 tvg-id="Lifetime.mx" group-title="Mundo",Lifetime
-http://tv.teleclub.xyz/stream/Mundo/LIFETIME/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Mundo",ADN40
-http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Mundo",RCN
-http://tv.teleclub.xyz/stream/Mundo/RCN/index.m3u8
-#EXTINF:0 tvg-id="Telefe.ar" group-title="Mundo",Telefe
-http://tv.teleclub.xyz/stream/Mundo/TELEFE/index.m3u8
-#EXTINF:0 tvg-id="HolaTV.us" group-title="Mundo",HolaTV
-http://tv.teleclub.xyz/stream/Mundo/HOLATV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Mundo",Las Estrellas
-http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Mundo",Canal E!
-http://tv.teleclub.xyz/stream/Mundo/CANAL_E/index.m3u8
-#EXTINF:0 tvg-id="CaracolTV.us" group-title="Mundo",Caracol TV
-http://tv.teleclub.xyz/stream/Mundo/CARACOLTV/index.m3u8
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Mundo",Telemundo
-http://tv.teleclub.xyz/stream/Mundo/TELEMUNDO/index.m3u8
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="Mundo",Azteca7
-http://tv.teleclub.xyz/stream/Mundo/AZTECA7/index.m3u8
-#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Mundo",Univision
-http://tv.teleclub.xyz/stream/Mundo/UNIVISION/index.m3u8
-#EXTINF:0 tvg-id="Antena3.mx" group-title="Mundo",Antena 3
-http://tv.teleclub.xyz/stream/Mundo/ANTENA3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",23132131242_A+
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-2.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",23132131243_Willax
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-3.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",23132131245_Az Cinema
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-5.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",23132131246_Az Corazon
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-6.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",23132131247_Az Mundo
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-7.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312413_Veplus
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-13.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312423_El Gourmet
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-23.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312424_Entertainment
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-24.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312425_Food Network
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-25.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312429_Glitz
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-29.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312433_Hola TV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-33.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312434_Isat
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-34.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312435_Imagen TV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-35.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124468_TV Chile
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-468.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312438_Las Estrellas
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-38.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312440_Lifetime
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-40.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312460_Tl Novelas
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-60.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312462_Univision
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-62.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312463_Tiin/BitMe
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-63.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312465_Canal 9 Galavision
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-65.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312466_A&E
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-66.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312467_AMC
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-67.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312468_AXN
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-68.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312469_Cinecanal
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-69.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312470_Cinemax
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-70.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312471_Comedy Central
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-71.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312472_De Pelicula
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-72.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312473_Distrito Comedia
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-73.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312481_Star Life/Fox Life
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-81.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312482_.Star Channel/FOX
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-82.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312483_FX
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-83.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312484_FXM
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-84.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312485_Golden
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-85.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312486_Golden Edge
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-86.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312494_Sony
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-94.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312495_Space
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-95.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312496_Studio Universal
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-96.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312498_TNT
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-98.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",231321312499_TNT Series
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-99.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124100_Universal Channel
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-100.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124101_Warner
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-101.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124103_Bandamax
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-103.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124167_ATV Peru
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-167.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124175_Cine Latino
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-175.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124202_ATV+Peru
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-202.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124212_Pasiones
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-212.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124214_RCN  Novelas
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-214.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124231_Univision Tlenovela
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-231.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124242_Golden Premier
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-242.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124262_HGTV MX
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-262.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124304_WOW! - El Salvador
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-304.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124323_Telefe Int.
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-323.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124370_Starz Encore
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-370.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",23132131245320_Galavision
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-5320.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124802_Canal U UY
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-802.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124801_Canal 2 UY
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-801.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124800_Canal 4 UY
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-800.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124376_Latina UY
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-376.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124379_Starz Encore Action
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-379.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124405_Canal M UY
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-405.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124418_Estrella TV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-418.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124449_Unimas
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-449.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124464_TC TV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-464.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124484_Ten 10
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-484.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124491_Europa Europa
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-491.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124493_Films & Arts
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-493.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124495_Televisa Puebla
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-495.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124507_TV Publica Arg.
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-507.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124511_El Pinguino
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-511.m3u
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",2313213124525_Ticavision
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-525.m3u
 
-#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Cultura",Food Network
-http://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Cultura",Discovery Channel
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Cultura",Discovery Theater
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_THEATER/index.m3u8
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Cultura",Discovery World
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_WORLD/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Cultura",Discovery Turbo
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_TURBO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery Sciences
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_SCIENCES/index.m3u8
-#EXTINF:0 tvg-id="Investigation.uk" group-title="Cultura",Discovery ID
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_ID/index.m3u8
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Cultura",Discovery H&H
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_HH/index.m3u8
-#EXTINF:0 tvg-id="History.mx" group-title="Cultura",History Channel
-http://tv.teleclub.xyz/stream/Cultura/HISTORY/index.m3u8
-#EXTINF:0 tvg-id="H2.mx" group-title="Cultura",H2
-http://tv.teleclub.xyz/stream/Cultura/H2/index.m3u8
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Cultura",National Geographic
-http://tv.teleclub.xyz/stream/Cultura/NATGEO/index.m3u8
-#EXTINF:0 tvg-id="AyE.mx" group-title="Cultura",A&E
-http://tv.teleclub.xyz/stream/Cultura/A_E/index.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Cultura",Animal Planet
-http://tv.teleclub.xyz/stream/Cultura/ANIMAL_PLANET/index.m3u8
-#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Cultura",El Gourmet
-http://tv.teleclub.xyz/stream/Cultura/EL_GOURMET/index.m3u8
-#EXTINF:0 tvg-id="TLC.mx" group-title="Cultura",TLC
-http://tv.teleclub.xyz/stream/Cultura/TLC/index.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Cultura",ComedyCentral
-http://tv.teleclub.xyz/stream/Cultura/COMEDYCENTRAL/index.m3u8
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Cultura",Distrito Comedia
-http://tv.teleclub.xyz/stream/Cultura/DISTRITO_COMEDIA/index.m3u8
-#EXTINF:0 tvg-id="LoveNature.eu" group-title="Cultura",Love Nature
-http://tv.teleclub.xyz/stream/Cultura/LOVE_NATURE/index.m3u8
-#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Cultura",TLNovelas
-http://tv.teleclub.xyz/stream/Cultura/TLNovelas/index.m3u8
-#EXTINF:0 tvg-id="LoveNature4k" group-title="Cultura",Love Nature 4K
-http://tv.teleclub.xyz/stream/Cultura/LOVENATURE_4K/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regional",23132131248_Az Clic
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-8.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",231321312410_Canal 5
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-10.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",231321312412_Caracol
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-12.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",231321312450_Telemundo Int.
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-50.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",231321312452_Televisa MTY
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-52.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",231321312464_RCN
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-64.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124177_City TV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-177.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124219_Canal Uno
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-219.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124237_ALC Peru
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-237.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124249_Latina Peru
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-249.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124258_Panamericana Peru
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-258.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124261_Telefe Arg.
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-261.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124278_Telemundo 51
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-278.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124308_Azteca uno
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-308.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124329_America Perú
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-329.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124330_TV Peru
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-330.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124349_Telemundo 41
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-349.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124366_Mega Chile
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-366.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124371_Ecuavisa
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-371.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124408_Canal 26 Argentina
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-408.m3u
+#EXTINF:0 tvg-id="ext" group-title="Regional",2313213124465_Multimedios
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-465.m3u
 
-#EXTINF:0 tvg-id="otr" group-title="Entretenimiento",Star Channel
-http://tv.teleclub.xyz/stream/Entretenimiento/STAR_CHANNEL/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Universal TV
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_TV/index.m3u8
-#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Entretenimiento",Warner TV
-http://tv.teleclub.xyz/stream/Entretenimiento/WARNER_TV/index.m3u8
-#EXTINF:0 tvg-id="AXN.mx" group-title="Entretenimiento",AXN
-http://tv.teleclub.xyz/stream/Entretenimiento/AXN/index.m3u8
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Entretenimiento",Paramount
-http://tv.teleclub.xyz/stream/Entretenimiento/PARAMOUNT/index.m3u8
-#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Entretenimiento",Studio Universal
-http://tv.teleclub.xyz/stream/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:0 tvg-id="FX.mx" group-title="Entretenimiento",FX
-http://tv.teleclub.xyz/stream/Entretenimiento/FX/index.m3u8
-#EXTINF:0 tvg-id="TBS.mx" group-title="Entretenimiento",TBS
-http://tv.teleclub.xyz/stream/Entretenimiento/TBS/index.m3u8
-#EXTINF:0 tvg-id="TNT.mx" group-title="Entretenimiento",TNT
-http://tv.teleclub.xyz/stream/Entretenimiento/TNT/index.m3u8
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Entretenimiento",TNT Series
-http://tv.teleclub.xyz/stream/Entretenimiento/TNT_SERIES/index.m3u8
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Entretenimiento",Cinemax
-http://tv.teleclub.xyz/stream/Entretenimiento/CINEMAX/index.m3u8
-#EXTINF:0 tvg-id="Sony.mx" group-title="Entretenimiento",Sony
-http://tv.teleclub.xyz/stream/Entretenimiento/SONY/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",DePelicula
-http://tv.teleclub.xyz/stream/Entretenimiento/DEPELICULA/index.m3u8
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Entretenimiento",Cinecanal
-http://tv.teleclub.xyz/stream/Entretenimiento/CINECANAL/index.m3u8
-#EXTINF:0 tvg-id="HBOHD.mx" group-title="Entretenimiento",HBO
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO/index.m3u8
-#EXTINF:0 tvg-id="HBO2.mx" group-title="Entretenimiento",HBO 2
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",HBO +
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_PLUS/index.m3u8
-#EXTINF:0 tvg-id="Max.br" group-title="Entretenimiento",HBO Mundi
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_MUNDI/index.m3u8
-#EXTINF:0 tvg-id="Maxup.br" group-title="Entretenimiento",HBO Pop
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_POP/index.m3u8
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Entretenimiento",HBO Signature
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_SIGNATURE/index.m3u8
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Entretenimiento",HBO Xtreme
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_XTREME/index.m3u8
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Entretenimiento",HBO Family
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_FAMILY/index.m3u8
-#EXTINF:0 tvg-id="Golden.mx" group-title="Entretenimiento",Golden
-http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN/index.m3u8
-#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Entretenimiento",Golden Edge
-http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_EDGE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Golden Premier
-http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PREMIER/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Golden Plus
-http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PLUS/index.m3u8
-#EXTINF:0 tvg-id="AMC.mx" group-title="Entretenimiento",AMC
-http://tv.teleclub.xyz/stream/Entretenimiento/AMC/index.m3u8
-#EXTINF:0 tvg-id="Space.mx" group-title="Entretenimiento",SPACE
-http://tv.teleclub.xyz/stream/Entretenimiento/SPACE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Universal Premiere
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Universal Reality
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Universal Cinema
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_CINEMA/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Rakuten TV Action Movies (Español)
-http://tv.teleclub.xyz/stream/Entretenimiento/RAKUTENTV_ACTION/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",A3CINE
-http://tv.teleclub.xyz/stream/Entretenimiento/A3CINE_LAT/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Noticias",23132131249_Azteca 7
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-9.m3u
+#EXTINF:0 tvg-id="ext" group-title="Noticias",231321312461_CNN Esp.
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-61.m3u
+#EXTINF:0 tvg-id="ext" group-title="Noticias",2313213124199_France 24
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-199.m3u
+#EXTINF:0 tvg-id="ext" group-title="Noticias",2313213124213_RAI
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-213.m3u
+#EXTINF:0 tvg-id="ext" group-title="Noticias",2313213124230_Chilevision
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-230.m3u
+#EXTINF:0 tvg-id="ext" group-title="Noticias",2313213124937_El Financiero
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-937.m3u
 
-#EXTINF:0 tvg-id="MTV.mx" group-title="Musica",MTV
-http://tv.teleclub.xyz/stream/Musica/MTV/index.m3u8
-#EXTINF:0 tvg-id="MTVHits.eu" group-title="Musica",MTV Hits
-http://tv.teleclub.xyz/stream/Musica/MTV_HITS/index.m3u8
-#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Musica",MTV Live
-http://tv.teleclub.xyz/stream/Musica/MTV_LIVE/index.m3u8
-#EXTINF:0 tvg-id="MTVClassic.uk" group-title="Musica",MTV Classic
-http://tv.teleclub.xyz/stream/Musica/MTV_CLASSIC/index.m3u8
-#EXTINF:0 tvg-id="Bandamax.mx" group-title="Musica",Bandamax
-http://tv.teleclub.xyz/stream/Musica/BANDAMAX/index.m3u8
-#EXTINF:0 tvg-id="NickMusic.nl" group-title="Musica",Nick Music
-http://tv.teleclub.xyz/stream/Musica/NICK_MUSIC/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musica",Retro Plus 1
-http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musica",Retro Plus 2
-http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",231321312430_ECDF Ecuador
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-30.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",231321312442_NFL Redzone
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-42.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",23132131245322_Directv Sports HD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-5322.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124113_ESPN 2 MX
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-113.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124115_ESPN 3 MX
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-115.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124117_ESPN MX
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-117.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124122_Fox Sports 2 MX
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-122.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124123_Fox Sports 2
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-123.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124124_Fox Sports 3 MX
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-124.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124125_Fox Sports 3
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-125.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124126_Fox Sports MX
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-126.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124127_TVC Deportes
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-127.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124128_UDN/TUDN USA
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-128.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124129_Win Sports
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-129.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124130_Tyc Sports
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-130.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124162_WWE
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-162.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124178_Claro Sports Latam
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-178.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124195_VTV UY +
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-195.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124229_MLB
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-229.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124270_TUDN USA FHD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-270.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124281_ESPN Sur Extra
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-281.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124293_NFL Network
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-293.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124294_VTV UY
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-294.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124296_TDN/TUDN
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-296.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124298_Espn Sur Deportes
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-298.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124299_Gol TV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-299.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124300_Gol Peru
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-300.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124301_TNT Sports AR
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-301.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124302_NBA TV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-302.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124311_Fox Sports Premium
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-311.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124313_Gol TV Ecuador
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-313.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124489_TNT Sports CL/CDF
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-489.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124368_TNT Sports CL/CDF Premium
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-368.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124938_Win Sports +
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-938.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124373_Afizzionados
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-373.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124383_Tigo Sports + PY
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-383.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124414_CBS Sports FHD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-414.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124454_Tigo Sports CR
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-454.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124481_NHL
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-481.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124482_TNT US
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-482.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124506_Ovacion TV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-506.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124530_FS1 US
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-530.m3u
+#EXTINF:0 tvg-id="ext" group-title="Deportes",2313213124535_FS2 US
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-535.m3u
 
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN
-http://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Afizzionados
-http://tv.teleclub.xyz/stream/Deportes/AFIZZIONADOS/index.m3u8
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports
-http://tv.teleclub.xyz/stream/Deportes/CLARO_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="GolTV.us" group-title="Deportes",GolTV
-http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv 2
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Directv +
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",GolPeru
-http://tv.teleclub.xyz/stream/Deportes/GOLPERU/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN MX
-http://tv.teleclub.xyz/stream/Deportes/ESPN_MX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 MX
-http://tv.teleclub.xyz/stream/Deportes/ESPN_2_MX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 MX
-http://tv.teleclub.xyz/stream/Deportes/ESPN_3_MX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_MX/index.m3u8
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox Sports 2 MX
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_MX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 MX
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_MX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_2_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 3 Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 2 Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_SUR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3 Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_SUR/index.m3u8
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Deportes",Bein Sports
-http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sports
-http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sports +
-http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS_PLUS/index.m3u8
-#EXTINF:0 tvg-id="Espnextra.br" group-title="Deportes",ESPN Extra
-http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="Deportes",TyC Sports
-http://tv.teleclub.xyz/stream/Deportes/TYC_SPORTS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",WWE & WWF
-http://tv.teleclub.xyz/stream/Deportes/WWE_WWF/index.m3u8
-#EXTINF:0 tvg-id="ESPN4.nl" group-title="Deportes",ESPN 4
-http://tv.teleclub.xyz/stream/Deportes/ESPN4/index.m3u8
-#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="Deportes",DAZN
-http://tv.teleclub.xyz/stream/Deportes/DAZN/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirecTV Sports (ARG)
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_ARG/index.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Deportes",Real Madrid TV (ES)
-http://tv.teleclub.xyz/stream/Deportes/RM_TV/index.m3u8
-#EXTINF:0 tvg-id="MUTV.uk" group-title="Deportes",Manchester United TV
-http://tv.teleclub.xyz/stream/Deportes/MAN_UNITEDTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",NFL Channel
-http://tv.teleclub.xyz/stream/Deportes/NFL_CHANNEL/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Tigo Sports BO
-http://tv.teleclub.xyz/stream/Deportes/Tigo_Sports/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ECDF El Canal del Futbol
-http://tv.teleclub.xyz/stream/Deportes/ECDF/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Adrenalina Sports Network
-http://tv.teleclub.xyz/stream/Deportes/ADRENALINA/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",MZ Sports CR
-http://tv.teleclub.xyz/stream/Deportes/MZ_SPORTSCR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports BR
-http://tv.teleclub.xyz/stream/Deportes/TNTSPORTS_BR/index.m3u8
-#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Deportes",Fox Sports Premium
-http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Full HD",231321312439_NBC Universo
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-39.m3u
+#EXTINF:0 tvg-id="ext" group-title="Full HD",231321312449_.Star Channel/FOX FHD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-49.m3u
+#EXTINF:0 tvg-id="ext" group-title="Full HD",2313213124272_Discovery Familia
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-272.m3u
+#EXTINF:0 tvg-id="ext" group-title="Full HD",2313213124277_Nuestra Tele int.
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-277.m3u
+#EXTINF:0 tvg-id="ext" group-title="Full HD",2313213124536_.Star Action/Fox Action FHD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-536.m3u
+#EXTINF:0 tvg-id="ext" group-title="Full HD",2313213124543_HBO FHD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-543.m3u
+#EXTINF:0 tvg-id="ext" group-title="Full HD",2313213124915_Canal 5 FHD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-915.m3u
+#EXTINF:0 tvg-id="ext" group-title="Full HD",2313213124917_Azteca 7 FHD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-917.m3u
+#EXTINF:0 tvg-id="ext" group-title="Full HD",2313213124930_Las Estrellas FHD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-930.m3u
+#EXTINF:0 tvg-id="ext" group-title="Full HD",2313213124931_Azteca uno FHD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-931.m3u
 
-#EXTINF:0 tvg-id="ext" group-title="Paises",La Tele Uruguay
-http://tv.teleclub.xyz/stream/Paises/LATELE_UY/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Music Top | AR
-http://tv.teleclub.xyz/stream/Paises/MUSICTOP_ARG/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",WOW TV | SV
-http://tv.teleclub.xyz/stream/Paises/WOW_TV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Wuan + | EC
-http://tv.teleclub.xyz/stream/Paises/WUAN_EC/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Cable Noticias | CO
-http://tv.teleclub.xyz/stream/Paises/CABLE_CO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Señal Colombia (1080p)
-http://tv.teleclub.xyz/stream/Paises/SENAL_COLOMBIA/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",RCN (Nuestra Tele) | CO
-http://tv.teleclub.xyz/stream/Paises/RCN_CO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Best Cable Music (720p) | PE
-http://tv.teleclub.xyz/stream/Paises/BEST_MUSIC/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Telemundo | INT
-http://tv.teleclub.xyz/stream/Paises/TELEMUNDO_INT/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Canal 1 (1080p)
-http://tv.teleclub.xyz/stream/Paises/UNO_CO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Telemundo (Puerto Rico)
-http://tv.teleclub.xyz/stream/Paises/TELEMUNDO_PR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",C9N (PY)
-http://tv.teleclub.xyz/stream/Paises/C9N_PY/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",NHK World Premium (JP)
-http://tv.teleclub.xyz/stream/Paises/NHK_WORLD_PREMIUM/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",NHK World (JP)
-http://tv.teleclub.xyz/stream/Paises/NHK_World/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Televen (VE)
-http://tv.teleclub.xyz/stream/Paises/TELEVEN_VE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",TLT (VE)
-http://tv.teleclub.xyz/stream/Paises/TLT/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Venevision
-http://tv.teleclub.xyz/stream/Paises/VENEVISION/index.m3u8
-#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Paises",Panamericana TV
-http://tv.teleclub.xyz/stream/Paises/PANAMERICANA_TV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Panamericana  PE (OP2)
-http://tv.teleclub.xyz/stream/Paises/PANAMERICANA_PE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",VTV | HN
-http://tv.teleclub.xyz/stream/Paises/VTV_HN/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Canal 5 | MX
-http://tv.teleclub.xyz/stream/Paises/CANAL5_MX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Telemetro (PA)
-http://tv.teleclub.xyz/stream/Paises/TELEMETRO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Bolivision
-http://tv.teleclub.xyz/stream/Paises/Bolivision/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",FM Globo 100.3 (CR)
-http://tv.teleclub.xyz/stream/Paises/FM_GLOBOCR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Radio Marca Nacional (ES)
-http://tv.teleclub.xyz/stream/Paises/RADIOMARCA_ES/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",RCN Radio (CO)
-http://tv.teleclub.xyz/stream/Paises/RCN_RADIO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Teletica Radio (CR)
-http://tv.teleclub.xyz/stream/Paises/TELETICA_FM/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",La Invasora FM 101.9 (MX)
-http://tv.teleclub.xyz/stream/Paises/FM_101.9MX/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",RADIO RPP Noticias (PE)
-http://tv.teleclub.xyz/stream/Paises/RPP_NOTICIAS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Red Uno (BO)
-http://tv.teleclub.xyz/stream/Paises/REDUNO_BO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Trece HD | CO
-http://tv.teleclub.xyz/stream/Paises/TRECE_CO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",MTV | CO
-http://tv.teleclub.xyz/stream/Paises/MTV_CO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Bolivia TV
-http://tv.teleclub.xyz/stream/Paises/BOLIVIA_TV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Metal TV
-http://tv.teleclub.xyz/stream/Paises/METAL_TV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",America TV | PE
-http://tv.teleclub.xyz/stream/Paises/AMERICA_TV/index.m3u8
-#EXTINF:0 tvg-id="CGTN.es" group-title="Paises",CGTN Español
-http://tv.teleclub.xyz/stream/Paises/CGTN_ES/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",DW Español
-http://tv.teleclub.xyz/stream/Paises/DW_ES/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",RTP  Bolivia
-http://tv.teleclub.xyz/stream/Paises/RTP_BOLIVIA/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",ATV | PE
-http://tv.teleclub.xyz/stream/Paises/ATV_PE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",ATV+ | PE
-http://tv.teleclub.xyz/stream/Paises/ATV2_PE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Radio Mitre
-http://tv.teleclub.xyz/stream/Paises/RADIO_MITRE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Canal 3 | GT
-http://tv.teleclub.xyz/stream/Paises/CANALTRES_GT/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Canal 7 | GT
-http://tv.teleclub.xyz/stream/Paises/CANALSIETE_GT/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Canal 6 | SV
-http://tv.teleclub.xyz/stream/Paises/CANALSEIS_SV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Canal 12 | SV
-http://tv.teleclub.xyz/stream/Paises/CANALDOCE_SV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",IsCaliTV | EC
-http://tv.teleclub.xyz/stream/Paises/ISCALITV_EC/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Wowly EnerGeek (CL)
-http://tv.teleclub.xyz/stream/Paises/Wowly_EnerGeek/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Radio Unica (EC)
-http://tv.teleclub.xyz/stream/Paises/Radio_LaUnicaEC/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",America Estereo
-http://tv.teleclub.xyz/stream/Paises/AMERICA_ESTEREO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",TV Agro | CO
-http://tv.teleclub.xyz/stream/Paises/TV_AGRO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",La Otra FM Guayaquil
-http://tv.teleclub.xyz/stream/Paises/LAOTRAFM_GUAYAQUIL/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Radio Bandida (EC)
-http://tv.teleclub.xyz/stream/Paises/RADIO_BANDIDA/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Anime Zone TV
-http://tv.teleclub.xyz/stream/Paises/AZTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Radio Alegria (EC)
-http://tv.teleclub.xyz/stream/Paises/RADIOALEGRIA_EC/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Trece + | CO
-http://tv.teleclub.xyz/stream/Paises/TRECEPLUS_CO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Encuentro | AR
-http://tv.teleclub.xyz/stream/Paises/ENCUENTRO_AR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Canal 66 Mexicali
-http://tv.teleclub.xyz/stream/Paises/CANAL66_Mexicali/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Bitme | MX(GEO)
-http://tv.teleclub.xyz/stream/Paises/BITME_GEO/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",La Red (CL)
-http://tv.teleclub.xyz/stream/Paises/LARED_CL/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Paises",Wapp
-http://tv.teleclub.xyz/stream/Paises/WAPP_CL/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312474_.Star Action/Fox Action
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-74.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312475_.Star Cinema/Fox Cinema SD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-75.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312476_.Star Classics/Fox Classics SD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-76.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312477_.Star Comedy/Fox Comedy SD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-77.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312478_.Star Fun/Fox Family SD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-78.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312479_.Star Hits/Fox Movies SD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-79.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312480_.Star Series/Fox Series SD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-80.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312487_HBO
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-87.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312488_HBO Family
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-88.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312489_HBO Plus
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-89.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312490_HBO Signature
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-90.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312491_HBO2
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-91.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312492_HBO Xtreme
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-92.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312493_Paramount
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-93.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",231321312497_Syfy
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-97.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",2313213124102_TCM
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-102.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",2313213124201_HBO SUB
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-201.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",2313213124207_HBO Pop
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-207.m3u
+#EXTINF:0 tvg-id="ext" group-title="Premium",2313213124243_HBO Mundi
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-243.m3u
 
-#EXTINF:0 tvg-id="ext" group-title="24_7",Los Simpsons 1
-http://tv.teleclub.xyz/stream/24_7/LOS_SIMPSONS_1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",Los Simpsons 2
-http://tv.teleclub.xyz/stream/24_7/LOS_SIMPSONS_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",Principe del Rap
-http://tv.teleclub.xyz/stream/24_7/PRINCIPE_DEL_RAP/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",Correcaminos
-http://tv.teleclub.xyz/stream/24_7/CORRECAMINOS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",Dinosaurios
-http://tv.teleclub.xyz/stream/24_7/DINOSAURIOS/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",Ben 10
-http://tv.teleclub.xyz/stream/24_7/BEN_10/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",Los Simpsons 247
-http://tv.teleclub.xyz/stream/24_7/SIMPSONS_247/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",Dragon Ball
-http://tv.teleclub.xyz/stream/24_7/DRAGON_BALL/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",South Park
-http://tv.teleclub.xyz/stream/24_7/SOUTH_PARK/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",ALF
-http://tv.teleclub.xyz/stream/24_7/ALF/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",Familia Peluche
-http://tv.teleclub.xyz/stream/24_7/FAMILIA_PELUCHE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24_7",Doctor Who (24/7)
-http://tv.teleclub.xyz/stream/24_7/DOCTORWHO_247/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124104_MTV Hits
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-104.m3u
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124105_MTV Live
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-105.m3u
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124106_MTV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-106.m3u
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124109_VH1 Classics
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-109.m3u
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124110_VH1
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-110.m3u
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124203_HTV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-203.m3u
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124289_Retro
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-289.m3u
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124352_Once Niños
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-352.m3u
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124473_UTV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-473.m3u
+#EXTINF:0 tvg-id="ext" group-title="Musical",2313213124475_Classic Arts
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-475.m3u
+
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124137_Cartoon Network
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-137.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124138_Disney Channel
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-138.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124139_Disney JR
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-139.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124140_Disney XD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-140.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124141_Nat Geo Kids
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-141.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124142_Nick 2
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-142.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124143_Nick JR
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-143.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124144_Nick
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-144.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124145_Nicktoons
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-145.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124146_Tooncast
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-146.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124147_Boomerang
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-147.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124148_Discovery Kids
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-148.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124188_Baby TV
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-188.m3u
+#EXTINF:0 tvg-id="ext" group-title="Infantil",2313213124290_Paka Paka
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-290.m3u
+
+#EXTINF:0 tvg-id="ext" group-title="Adultos",2313213124150_Sextreme
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-150.m3u
+#EXTINF:0 tvg-id="ext" group-title="Adultos",2313213124152_Playboy
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-152.m3u
+#EXTINF:0 tvg-id="ext" group-title="Adultos",2313213124160_Brazzers
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-160.m3u
+#EXTINF:0 tvg-id="ext" group-title="Adultos",2313213124259_Penthouse
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-259.m3u
+#EXTINF:0 tvg-id="ext" group-title="Adultos",2313213124346_Venus
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-346.m3u
+
+#EXTINF:0 tvg-id="ext" group-title="Religioso",2313213124385_CDM
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-385.m3u
+#EXTINF:0 tvg-id="ext" group-title="Religioso",2313213124387_SBN
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-387.m3u
+
+#EXTINF:0 tvg-id="ext" group-title="NoCast",2313213124967_Cinecanal
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-967.m3u
+#EXTINF:0 tvg-id="ext" group-title="NoCast",2313213124968_Cinemax
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-968.m3u
+#EXTINF:0 tvg-id="ext" group-title="NoCast",2313213124969_History
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-969.m3u
+#EXTINF:0 tvg-id="ext" group-title="NoCast",2313213124970_TNT
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-970.m3u
+#EXTINF:0 tvg-id="ext" group-title="NoCast",2313213124971_Disney Channel
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-971.m3u
+#EXTINF:0 tvg-id="ext" group-title="NoCast",2313213124972_Disney JR
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-972.m3u
+#EXTINF:0 tvg-id="ext" group-title="NoCast",2313213124973_Disney XD
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-973.m3u
+#EXTINF:0 tvg-id="ext" group-title="NoCast",2313213124974_Tooncast
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-974
