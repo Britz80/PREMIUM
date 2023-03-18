@@ -1,5 +1,5 @@
 activador
-https://teleclub.xyz/listas
+https://teleclub.xyz/listas 
 
 
 #EXTM3U
