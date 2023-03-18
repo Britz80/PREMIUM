@@ -32,7 +32,7 @@ http://tv.teleclub.xyz/stream/Infantil/CN2_LA/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/Kanade/index.m3u8
 
 #EXTINF:0 tvg-id="CNNesp.mx" group-title="Mundo",CNN en Español
-http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
+http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8 
 #EXTINF:0 tvg-id="CNN.nws" group-title="Mundo",CNN
 http://tv.teleclub.xyz/stream/Mundo/CNN/index.m3u8
 #EXTINF:0 tvg-id="Glitz.mx" group-title="Mundo",Glitz
