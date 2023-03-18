@@ -3,18 +3,6 @@ https://teleclub.xyz/listas
 
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Eventos",Teleclub | EVENTO 01
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_01/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventos",Teleclub | EVENTO 02
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_02/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventos",Teleclub | EVENTO 03
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_03/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventos",Teleclub | EVENTO 04
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_04/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventos",Teleclub | EVENTO 05
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_05/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventos",Teleclub | Evento 6
-http://tv.teleclub.xyz/stream/Eventos/EVENTOS_06/index.m3u8
 
 #EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Infantil",Cartoon Network
 http://tv.teleclub.xyz/stream/Infantil/CARTOON_NETWORK/index.m3u8
